@@ -21,3 +21,4 @@ A **responsive web page** that calculates 3-month interval dates starting from a
 - **Tailwind CSS** – Styling and responsiveness.
 - **JavaScript** – Date calculations and DOM manipulation.
 
+![Screenshot](Screenshot.png)
