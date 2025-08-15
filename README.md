@@ -1,4 +1,4 @@
-# 3-Month FDR Dates Calculator
+# 3 Month FDR Dates Calculator
 
 A **responsive web page** that calculates 3-month interval dates starting from a user-provided date, displays past intervals up to today, and highlights the next upcoming interval. Built using **HTML, Tailwind CSS, and JavaScript**.
 
